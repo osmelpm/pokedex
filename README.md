@@ -39,11 +39,11 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+## Seed database
+
+GET http://localhost:3000/seed
+
 ## Stack
 
 - NestJs
 - MongoDB
-
-## License
-
-Nest is [MIT licensed](LICENSE).
